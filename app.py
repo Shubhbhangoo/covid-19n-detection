@@ -39,4 +39,8 @@ def main():
         else:
             st.write('Prediction: COVID-19 Negative')
 
+if __name__ == '__main__':
+    main()
+
+
 
